@@ -92,7 +92,7 @@ function App() {
           </a>
         </div>
         <a
-          href="https://github.com/covid19india/covid19india-react"
+          href="http://sandeshdamkondwar.github.io/covid-19/"
           className="button github"
           target="_blank"
           rel="noopener noreferrer"

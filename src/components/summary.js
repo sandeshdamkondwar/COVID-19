@@ -45,12 +45,12 @@ function Summary(props) {
         <div className="summary-bottom-left">
           <img
             src="icon.png"
-            alt="https://www.covid19india.org | Coronavirus cases live dashboard"
+            alt="http://sandeshdamkondwar.github.io/covid-19/ | Coronavirus cases live dashboard"
           />
           <h5>We stand with everyone fighting on the frontlines</h5>
         </div>
         <div className="link">
-          <a href="https://github.com/covid19india">covid19india.org</a>
+          <a href="http://sandeshdamkondwar.github.io/covid-19/">http://sandeshdamkondwar.github.io/covid-19/</a>
         </div>
       </div>
     </div>
