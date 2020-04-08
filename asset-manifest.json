@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/covid-19/static/css/main.5c0e9883.chunk.css",
+    "main.js": "/covid-19/static/js/main.9f9abeea.chunk.js",
+    "main.js.map": "/covid-19/static/js/main.9f9abeea.chunk.js.map",
+    "runtime-main.js": "/covid-19/static/js/runtime-main.db8c32d2.js",
+    "runtime-main.js.map": "/covid-19/static/js/runtime-main.db8c32d2.js.map",
+    "static/js/2.17bc5616.chunk.js": "/covid-19/static/js/2.17bc5616.chunk.js",
+    "static/js/2.17bc5616.chunk.js.map": "/covid-19/static/js/2.17bc5616.chunk.js.map",
+    "index.html": "/covid-19/index.html",
+    "precache-manifest.da34468915b0defb7597f8c64eb45d08.js": "/covid-19/precache-manifest.da34468915b0defb7597f8c64eb45d08.js",
+    "service-worker.js": "/covid-19/service-worker.js",
+    "static/css/main.5c0e9883.chunk.css.map": "/covid-19/static/css/main.5c0e9883.chunk.css.map",
+    "static/js/2.17bc5616.chunk.js.LICENSE.txt": "/covid-19/static/js/2.17bc5616.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/covid-19/static/media/archia-thin-webfont.e88f1cf3.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db8c32d2.js",
+    "static/js/2.17bc5616.chunk.js",
+    "static/css/main.5c0e9883.chunk.css",
+    "static/js/main.9f9abeea.chunk.js"
+  ]
+}
